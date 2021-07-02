@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Ngân bae cute uiii ><',
     introDesc: `Nếu bà biết tui thích bà từ lâu vậy trả lời dùm tui câu hỏi này nhoaaaaa`,
-    btnIntro: 'Vângggg chồng yêu ><',
+    btnIntro: 'Vângggg chồng yêu >< ',
     title: 'Vũ trụ thì bao la huyền bí. Vũ trụ của tui thì bé tí gói gọn là Ngân ><',
     desc: 'Vậy bà có thích tui hông >< ',
     btnYes: 'Vẫn cứ là thích anh <33',
