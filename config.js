@@ -1,8 +1,8 @@
 const CONFIG = {
-    introTitle: 'Ngân bae cute uiii ><',
+    introTitle: 'Vy bae cute uiii ><',
     introDesc: `Nếu bà biết tui thích bà từ lâu vậy trả lời dùm tui câu hỏi này nhoaaaaa`,
-    btnIntro: 'Vângggg chồng yêu >< ',
-    title: 'Vũ trụ thì bao la huyền bí. Vũ trụ của tui thì bé tí gói gọn là Ngân ><',
+    btnIntro: 'Vângggg Triều >< ',
+    title: 'Vũ trụ thì bao la huyền bí. Vũ trụ của tui thì bé tí gói gọn là Vy ><',
     desc: 'Vậy bà có thích tui hông >< ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/shenproplayer'
+    messLink: 'https://www.facebook.com/trieu.nguyennhat.31'
 }
